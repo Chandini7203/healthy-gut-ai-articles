@@ -291,13 +291,3 @@ MIT License - feel free to use this project for learning and development.
 - Medical sources: NIH, NHS, CDC
 
 ---
-
-⭐ **If this project helped you, please give it a star!**
-
-📧 **Questions?** Open an issue or reach out!
-
-🔗 **Live Demo**: [Video Demo Link]
-
----
-
-*Built as part of AI Automation Assignment - November 2025*
