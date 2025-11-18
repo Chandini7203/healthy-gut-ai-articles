@@ -283,7 +283,6 @@ MIT License - feel free to use this project for learning and development.
 
 **Chandini**
 - GitHub: [@Chandini7203](https://github.com/Chandini7203)
-- Portfolio: [Your Portfolio Link]
 
 ## 🙏 Acknowledgments
 
